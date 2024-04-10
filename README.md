@@ -1,4 +1,4 @@
-#pipex
+# pipex
 !GitHub
 
 pipex is a project from École 42 that delves into the intricacies of UNIX mechanisms, specifically the concept of pipes.
