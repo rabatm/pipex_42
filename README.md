@@ -34,4 +34,4 @@ Minishell is licensed under MIT License. See LICENSE for full details.
 ## Authors
 rabatm - https://github.com/rabatm
 
-Please note that all functions are created in accordance with the Norm – a set of rules governing code formatting at École 42.\ Happy piping! 🚀
+Please note that all functions are created in accordance with the Norm – a set of rules governing code formatting at École 42. \ Happy piping! 🚀
