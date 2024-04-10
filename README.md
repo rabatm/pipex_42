@@ -29,7 +29,7 @@ make
 ```
 
 ## License
-Minishell is licensed under MIT License. See LICENSE for full details.
+pipex_42 is licensed under MIT License. See LICENSE for full details.
 
 ## Authors
 rabatm - https://github.com/rabatm
